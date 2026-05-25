@@ -16,8 +16,8 @@ A big list of third party projects / tools for telemetry removal on Windows and 
    - [LocalCDN](https://codeberg.org/nobody/LocalCDN) / [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) | Emulates / reduces big CDNs calls from high enterprises in websites. 
  - Sites
    - [4get](https://git.lolcat.ca/lolcat/4get) | Clearnet / proxy search engine. Cool to use it as your default searcher through **chrome://settings**.
-   - [Invidious](https://github.com/iv-org/invidious) | A YouTube privacy-focused front-end.
-   - [Nitter](https://github.com/zedeus/nitter) | A X / Twitter lightweight front-end.
+   - [Invidious](https://github.com/iv-org/invidious) | A YouTube privacy-focused and lightweight front-end.
+   - [Nitter](https://github.com/zedeus/nitter) | A X / Twitter privacy-focused lightweight front-end.
 # Privacy shouldn't be touched.
 ![gif](https://i.ibb.co/yn68pgk7/giphy.gif)
 
