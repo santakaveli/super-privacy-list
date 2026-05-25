@@ -11,4 +11,4 @@ A big list of third party tools for telemetry removal on Windows and others.
    - ungoogled-chromium | Open Source. Its name says it all.
  - Extensions
    - ClearURLs | Removes source identifiers / trackers from links.
-   - LocalCDN | Emulates / reduces big CDNs calls from high enterprises in websites.
+   - LocalCDN / Decentraleyes | Emulates / reduces big CDNs calls from high enterprises in websites.
