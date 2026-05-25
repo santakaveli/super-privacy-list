@@ -19,6 +19,7 @@ A big list of third party projects / tools for telemetry removal on Windows and 
    - [4get](https://git.lolcat.ca/lolcat/4get) | Clearnet / proxy search engine. Cool to use it as your default searcher through **chrome://settings**.
    - [Invidious](https://github.com/iv-org/invidious) | A YouTube privacy-focused and lightweight front-end.
    - [Nitter](https://github.com/zedeus/nitter) | A X / Twitter privacy-focused and lightweight front-end.
+   - [Scribe](https://git.sr.ht/~edwardloveall/scribe) | Read Medium blogs / posts without lag & tracking.
 # Privacy shouldn't be touched.
 ![gif](https://i.ibb.co/yn68pgk7/giphy.gif)
 
