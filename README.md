@@ -1,5 +1,5 @@
 # super-privacy-list
-A big list of third party tools for telemetry removal on Windows and others.
+A big list of third party projects / tools for telemetry removal on Windows and others.
 
 # List
  - Optimizing / Tweaking
@@ -11,4 +11,7 @@ A big list of third party tools for telemetry removal on Windows and others.
    - ungoogled-chromium | Open Source. Its name says it all.
  - Extensions
    - ClearURLs | Removes source identifiers / trackers from links.
-   - LocalCDN / Decentraleyes | Emulates / reduces big CDNs calls from high enterprises in websites.
+   - LocalCDN / Decentraleyes | Emulates / reduces big CDNs calls from high enterprises in websites. 
+ - Sites
+   - 4get | Clearnet / proxy search engine.
+   - Nitter | A X / Twitter lightweight front-end.
