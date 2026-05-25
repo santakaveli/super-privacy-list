@@ -21,4 +21,5 @@ A big list of third party projects / tools for telemetry removal on Windows and 
 # Privacy shouldn't be touched.
 ![gif](https://i.ibb.co/yn68pgk7/giphy.gif)
 
+##### Not affiliated with any of the mentioned projects, including mentioned enterprises. (Microsoft Corporation, X Corp. & Google LLC)
 ![divider](https://santakaveli.github.io/divider.gif)
