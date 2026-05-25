@@ -10,7 +10,7 @@ A big list of third party projects / tools for telemetry removal on Windows and 
    - Uninstall Tool (paid) | Uninstalls correctly any installed third program compared to Windows built one, finding & removing all of its registers from system after setup included uninstall progress.
  - Pre-Install
    - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist) | All Microsoft Visual C++ builds in one setup file to install together.
-   - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Open Source. Its name says it all. ***For install extensions, use [UngoogledExtensions](https://github.com/lukegosnellranken/UngoogledExtensions).***
+   - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Open Source. Its name says it all. ***(For install extensions, use [UngoogledExtensions](https://github.com/lukegosnellranken/UngoogledExtensions))***
  - Extensions
    - [ClearURLs](https://github.com/ClearURLs/Addon) | Removes source identifiers / trackers from links.
    - [LocalCDN](https://codeberg.org/nobody/LocalCDN) / [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) | Emulates / reduces big CDNs calls from high enterprises in websites. 
