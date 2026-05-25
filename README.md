@@ -1,4 +1,4 @@
-![divider](https://64.media.tumblr.com/adaec6624c3ef62538a4bb105fc3d73b/2e1ffcc0b98b3a6a-28/s500x750/ca38c60afda2ccdfe06ae194e89a8d8abfc81213.gif)
+![divider](https://santakaveli.github.io/divider.gif)
 
 # super-privacy-list
 A big list of third party projects / tools for telemetry removal on Windows and others. Be free to contribute.
@@ -20,4 +20,4 @@ A big list of third party projects / tools for telemetry removal on Windows and 
 # Privacy shouldn't be touched.
 ![gif](https://i.ibb.co/yn68pgk7/giphy.gif)
 
-![divider](https://64.media.tumblr.com/adaec6624c3ef62538a4bb105fc3d73b/2e1ffcc0b98b3a6a-28/s500x750/ca38c60afda2ccdfe06ae194e89a8d8abfc81213.gif)
+![divider](https://santakaveli.github.io/divider.gif)
