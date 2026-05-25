@@ -7,7 +7,7 @@ A big list of third party projects / tools for telemetry removal on Windows and 
  - Optimizing / Tweaking
    - [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) | A web app set of batch hand-made scripts to remove bloatware, unused apps & certain functions.
    - [Temp-Cleaner](https://github.com/prashant64bit/Temp-Cleaner/) | Lightweight and safe batch script to remove generated cache / temporal files from executed apps.
-   - Uninstall Tool (paid) | Uninstalls correctly any installed third program compared to Windows built one, finding & removing all of its registers from system after setup included uninstall progress.
+   - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Uninstall any installed third program better to Windows built one, finding & removing all of its registers / leftovers from system after setup included uninstall process.
  - Pre-Install
    - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist) | All Microsoft Visual C++ builds in one setup file to install together.
    - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Open Source. Its name says it all. ***(For install extensions, use [UngoogledExtensions](https://github.com/lukegosnellranken/UngoogledExtensions))***
