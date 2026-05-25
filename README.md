@@ -15,7 +15,7 @@ A big list of third party projects / tools for telemetry removal on Windows and 
    - [ClearURLs](https://github.com/ClearURLs/Addon) | Removes source identifiers / trackers from links.
    - [LocalCDN](https://codeberg.org/nobody/LocalCDN) / [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) | Emulates / reduces big CDNs calls from high enterprises in websites. 
  - Sites
-   - [4get](https://git.lolcat.ca/lolcat/4get) | Clearnet / proxy search engine.
+   - [4get](https://git.lolcat.ca/lolcat/4get) | Clearnet / proxy search engine. Cool to use it as your searcher through **chrome://settings**.
    - [Nitter](https://github.com/zedeus/nitter) | A X / Twitter lightweight front-end.
 # Privacy shouldn't be touched.
 ![gif](https://i.ibb.co/yn68pgk7/giphy.gif)
