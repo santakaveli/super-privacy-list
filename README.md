@@ -14,7 +14,7 @@ A big list of third party projects / tools for telemetry removal on Windows and 
  - Extensions
    - [ClearURLs](https://github.com/ClearURLs/Addon) | Removes source identifiers / trackers from links.
    - [LocalCDN](https://codeberg.org/nobody/LocalCDN) / [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) | Emulates / reduces big CDNs calls from high enterprises in websites.
-   - [FastForward](https://github.com/FastForwardTeam/FastForward) | Skip ad shorten links that may track information. ***(Ex: bit.ly and t.co)***
+   - [FastForward](https://github.com/FastForwardTeam/FastForward) | Skips ad-shorten links that may track information. ***(Ex: bit.ly and t.co)***
  - Sites
    - [4get](https://git.lolcat.ca/lolcat/4get) | Clearnet / proxy search engine. Cool to use it as your default searcher through **chrome://settings**.
    - [Invidious](https://github.com/iv-org/invidious) | A YouTube privacy-focused and lightweight front-end.
