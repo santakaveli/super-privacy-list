@@ -20,6 +20,7 @@ A big list of third party projects / tools for telemetry removal on Windows and 
    - [Invidious](https://github.com/iv-org/invidious) | A YouTube privacy-focused and lightweight front-end.
    - [Nitter](https://github.com/zedeus/nitter) | A X / Twitter privacy-focused and lightweight front-end.
    - [Scribe](https://git.sr.ht/~edwardloveall/scribe) | Read Medium blogs / posts without lag & tracking.
+   - [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) | View StackOverflow forums without the clutter & collecting your browser fingerprint data.
 # Privacy shouldn't be touched.
 ![gif](https://i.ibb.co/yn68pgk7/giphy.gif)
 
