@@ -10,11 +10,12 @@ A big list of third party projects / tools for telemetry removal on Windows and 
    - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Uninstall any installed third program better to Windows built one, finding & removing all of its registers / leftovers from system after setup included uninstall process.
  - Pre-Install
    - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist) | All Microsoft Visual C++ builds in one setup file to install together.
-   - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Open Source. Its name says it all. ***(For install extensions, use [UngoogledExtensions](https://github.com/lukegosnellranken/UngoogledExtensions))*** [ For [Windows](https://github.com/ungoogled-software/ungoogled-chromium-windows) ]
+   - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Open Source. Its name says it all. ***(For install extensions, use [UngoogledExtensions](https://github.com/lukegosnellranken/UngoogledExtensions) or [CRX Downloader](https://github.com/angelbruni/CRX-Downloader-userScript))*** [ For [Windows](https://github.com/ungoogled-software/ungoogled-chromium-windows) ]
  - Extensions
    - [ClearURLs](https://github.com/ClearURLs/Addon) | Removes source identifiers / trackers from links.
    - [LocalCDN](https://codeberg.org/nobody/LocalCDN) / [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) | Emulates / reduces big CDNs calls from high enterprises in websites.
    - [FastForward](https://github.com/FastForwardTeam/FastForward) | Skips ad-shorten links that may track information. ***(Ex: bit.ly and t.co)***
+   - [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) | For install userscripts to avoid distractions, optimize / lite page responses by reducing processes, or replace unuseful functions that can track small data.
  - Sites
    - [4get](https://git.lolcat.ca/lolcat/4get) | Clearnet / proxy search engine. Cool to use it as your default searcher through **chrome://settings**.
    - [Invidious](https://github.com/iv-org/invidious) | A YouTube privacy-focused and lightweight front-end.
